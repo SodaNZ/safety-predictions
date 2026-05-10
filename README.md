@@ -9,9 +9,9 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-# Code with GitHub Codespaces and Visual Studio Code
+# Feature Engineering and Model Training on Safety Datasets 
 
-_Develop code using GitHub Codespaces and Visual Studio Code!_
+
 
 </header>
 
@@ -23,11 +23,9 @@ _Develop code using GitHub Codespaces and Visual Studio Code!_
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Create your first codespace and push code
 
-_Welcome to "Develop code using GitHub Codespaces and Visual Studio Code"! :wave:_
 
-**What's the big deal about using a codespace for software development?** A codespace is a development environment that's hosted in the cloud. You can customize your project for GitHub Codespaces by committing configuration files to your repository (also known as configuration-as-code), which creates a repeatable codespace configuration for all users of your project. Each codespace you create is hosted by GitHub in a Docker container that runs on a virtual machine. You can choose the type of machine you want to use depending on the resources you need.
+:wave:
 
 GitHub offers a range of features to help your development team customize a codespace to reach peak configuration and performance needs. For example, you can:
 
@@ -37,7 +35,6 @@ GitHub offers a range of features to help your development team customize a code
 - Customize the codespace with custom images.
 - Manage the codespace.
 
-To begin developing using GitHub Codespaces, you can create a codespace from a template or from any branch or commit in a repository. When you create a codespace from a template, you can start from a blank template or choose a template suitable for the work you're doing.
 
 ### :keyboard: Activity: Start a codespace
 
